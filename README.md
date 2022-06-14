@@ -17,4 +17,4 @@ The system detects and marks the selected markings and objects:
 
 In addition, the system analyzes the posture of the person driving the vehicle. If the behavior of the driver is classified as dangerous - then he is warned with a light signal. Passing signs icons will appear on the screen if the driver is driving safely. 
 
-![gif-presentation](https://i.imgur.com/NZGu0xb.mp4)
+![gif-presentation](https://github.com/Tadz1k/virtual-driver-assistant/blob/main/presentation-gif.gif)
