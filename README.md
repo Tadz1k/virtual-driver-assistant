@@ -55,6 +55,8 @@ Install all dependencies:
 
 Download latest repository of YOLOv5: [link](https://github.com/ultralytics/yolov5.git) and place it next to driver assistant main files.
 
+Data directory should contain files with movies. In this repo it is empty, but you can use videos ex. from Youtube.
+
 ## Train on own data
 
 This repository also contains scripts written in jupyter notebook to train the network. You can find them in the "training" directory. The training took place on the google colab platform
