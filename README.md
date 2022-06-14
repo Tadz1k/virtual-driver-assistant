@@ -42,6 +42,8 @@ Additional, auxiliary scripts have been placed in the repository. They are used,
 
 ## Getting started
 
+If you are using other envoriment than MS Windows - you should comment line 22 in `driver_assistant.py - pathlib.PosixPath = pathlib.WindowsPath`
+
 * Download and prepare [cuda-toolkit](https://developer.nvidia.com/how-to-cuda-python)
 * Download this repository
 
@@ -61,3 +63,11 @@ Data directory should contain files with movies. In this repo it is empty, but y
 ## Train on own data
 
 This repository also contains scripts written in jupyter notebook to train the network. You can find them in the "training" directory. The training took place on the google colab platform
+
+## Testing
+
+You acan test the app using prepared list which contains sign-names, set distraction flag to True, and raise alarm. The testing code is on `183 - 185` line of `driver_assistant.py`.
+
+## Trained models
+
+You can download trained models from [my google drive](https://drive.google.com/drive/folders/1snCn8ZIrEXJbS96LxNfhh_yVyK89j71A?usp=sharing)
