@@ -1,3 +1,3 @@
 # Heading1
 
-![logo](https://imgur.com/P4VToJC)
+![logo](https://i.imgur.com/P4VToJC.png)
