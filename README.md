@@ -18,7 +18,9 @@ The system detects and marks the selected markings and objects:
 
 In addition, the system analyzes the posture of the person driving the vehicle. If the behavior of the driver is classified as dangerous - then he is warned with a light signal. Passing signs icons will appear on the screen if the driver is driving safely
 
+<p align="center">
 ![gif-presentation](https://github.com/Tadz1k/virtual-driver-assistant/blob/main/presentation-gif.gif)
+</p>
 
 The project is divided into two threads that analyze images from both cameras (or video files) at the same time.
 
