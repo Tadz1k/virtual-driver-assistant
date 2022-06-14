@@ -39,3 +39,22 @@ The project is divided into two threads that analyze images from both cameras (o
 ### Tools
 
 Additional, auxiliary scripts have been placed in the repository. They are used, among others, to convert YOLO label files to the appropriate format or other file operations.
+
+## Getting started
+
+* Download and prepare [cuda-toolkit](https://developer.nvidia.com/how-to-cuda-python)
+* Download this repository
+
+Set virtual enviroment in python (eventaully conda):
+`python -m venv driver_assistant`
+And activate this enviroment:
+`driver_assistant/Scripts/activate`
+
+Install all dependencies:
+`pip install -r requirements.txt`
+
+Download latest repository of YOLOv5: [link](https://github.com/ultralytics/yolov5.git) and place it next to driver assistant main files.
+
+## Train on own data
+
+This repository also contains scripts written in jupyter notebook to train the network. You can find them in the "training" directory. The training took place on the google colab platform
