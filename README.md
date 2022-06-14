@@ -47,6 +47,7 @@ Additional, auxiliary scripts have been placed in the repository. They are used,
 
 Set virtual enviroment in python (eventaully conda):
 `python -m venv driver_assistant`
+
 And activate this enviroment:
 `driver_assistant/Scripts/activate`
 
